@@ -22,6 +22,7 @@ public class Assignment_Add extends TestBase {
 		String Expheader = "Manage Assignment";
 		String Actheader = as.assignPageHeading();		
 		Assert.assertEquals(Expheader,Actheader);
+		System.out.println(Actheader);
 		
 		
 	
