@@ -94,6 +94,7 @@ public class UserSteps extends TestBase {
     	    
     	    up.ClickFirstPageLink();
     	    System.out.println("Click the first page link");
+    	    System.out.println("Test the above thing again");
     	}
 
 
