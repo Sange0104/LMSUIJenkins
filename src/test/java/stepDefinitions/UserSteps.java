@@ -93,6 +93,7 @@ public class UserSteps extends TestBase {
     	public void user_is_on_the_page_number(String string) {
     	    
     	    up.ClickFirstPageLink();
+    	    System.out.println("Click the first page link");
     	}
 
 
