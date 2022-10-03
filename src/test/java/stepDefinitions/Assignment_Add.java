@@ -23,6 +23,7 @@ public class Assignment_Add extends TestBase {
 		String Actheader = as.assignPageHeading();		
 		Assert.assertEquals(Expheader,Actheader);
 		System.out.println(Actheader);
+		System.out.println(Expheader);
 		
 		
 	
